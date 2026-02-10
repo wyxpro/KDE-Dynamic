@@ -8,6 +8,8 @@
 - 通过 ECharts / ECharts-GL 实现 2D 热力图与 3D 曲面/散点可视化
 - Tailwind 通过 CDN 引入，快速完成现代深色风格 UI
 - 内置数据生成器模拟异常行为，支持时间窗口控制与密度分布调整
+<img width="2543" height="1266" alt="image" src="https://github.com/user-attachments/assets/2638d888-17a3-4d87-95f6-ecd48d034274" />
+<img width="2547" height="1281" alt="image" src="https://github.com/user-attachments/assets/78e014a1-c1d4-48a8-9e17-e76e1be99fb0" />
 
 ## 🛠️ 技术栈
 
