@@ -1,0 +1,5 @@
+{
+  "name": "KDE Dynamic Archive Risk Monitor",
+  "description": "A high-performance dynamic risk heatmap driven by Kernel Density Estimation (KDE) for monitoring abnormal behaviors in archive management systems, featuring T/B/S (Time, Behavior, Sensitivity) multi-dimensional analysis.",
+  "requestFramePermissions": []
+}
